@@ -18,4 +18,5 @@ The Dockerfile builds a development container on top of the latest Ubuntu image,
 
 1. Clone this repository to your local machine.
 2. Build and start the container using the provided script.
+3. (Optional) Modify the Docikerfile to suit your specific requirements.
 
